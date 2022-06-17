@@ -1,0 +1,15 @@
+E:\radio\radio\radio\bin\Debug\radio.exe.config
+E:\radio\radio\radio\bin\Debug\radio.exe
+E:\radio\radio\radio\bin\Debug\radio.pdb
+E:\radio\radio\radio\bin\Debug\Interop.WMPLib.dll
+E:\radio\radio\radio\bin\Debug\AxInterop.WMPLib.dll
+E:\radio\radio\radio\obj\Debug\radio.csproj.AssemblyReference.cache
+E:\radio\radio\radio\obj\Debug\Interop.WMPLib.dll
+E:\radio\radio\radio\obj\Debug\AxInterop.WMPLib.dll
+E:\radio\radio\radio\obj\Debug\radio.csproj.ResolveComReference.cache
+E:\radio\radio\radio\obj\Debug\radio.Form1.resources
+E:\radio\radio\radio\obj\Debug\radio.Properties.Resources.resources
+E:\radio\radio\radio\obj\Debug\radio.csproj.GenerateResource.cache
+E:\radio\radio\radio\obj\Debug\radio.csproj.CoreCompileInputs.cache
+E:\radio\radio\radio\obj\Debug\radio.exe
+E:\radio\radio\radio\obj\Debug\radio.pdb
